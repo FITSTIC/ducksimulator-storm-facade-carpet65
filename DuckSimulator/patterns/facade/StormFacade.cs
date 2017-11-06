@@ -62,6 +62,7 @@ public class Storm<Tduck> : IStorm<Tduck> where Tduck : Duck, new()
 
     public void FillStorm(int nDucks)
     {
+
         throw new System.NotImplementedException();
     }
 
